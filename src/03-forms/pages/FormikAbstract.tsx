@@ -2,7 +2,7 @@ import { Formik, Form } from "formik";
 import * as yup from "yup";
 import "../styles/styles.css";
 
-import { components } from "../components";
+import components from "../components";
 
 const { CheckboxComponent, SelectComponent, TextInput } = components;
 
